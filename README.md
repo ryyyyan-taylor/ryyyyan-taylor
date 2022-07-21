@@ -5,8 +5,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on juggling work, classes, and the tail end of a global pandemic.
-- 🌱 I’m currently learning network infastructure and constitutional law in my senior year at CU Boulder.
+- 🔭 I’m currently working on juggling working from home and a bunch of personal projects!
+- 🌱 I’m currently learning about security and pipeline management at work.
 - 💬 Ask me about Star Wars! I spin lightsabers for fun! 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
