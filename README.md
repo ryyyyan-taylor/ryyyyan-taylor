@@ -6,8 +6,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on juggling working from home and a bunch of personal projects!
-- 🌱 I’m currently learning about security and pipeline management at work.
-- 💬 Ask me about Star Wars! I spin lightsabers for fun! 
+- 🌱 I’m currently learning Ansible at work and developing purpose-built Linux systems.
+- 💬 Ask me about Star Wars! I spin lightsabers for fun!
+- 📫 Check out my [website](https://ryantaylor.tech) for a ton more info!
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
