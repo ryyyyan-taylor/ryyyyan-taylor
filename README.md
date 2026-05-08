@@ -18,7 +18,7 @@ Outside of work I try to juggle way too many personal projects and hobbies, to v
 
 **FPV Flying** — Building and flying freestyle drones and fixed-wing planes since 2015. I build all my own aircraft. When Colorado weather cooperates I'm out at local fields or up in the mountains.
 
-**Homelab** — Proxmox server running game servers for friends, Pi-hole, and Cloudflare Tunnels. Mainly a sandbox for trying tools before they see the light of a production environment.
+**Homelab** — I run a Proxmox server hosting some game servers for friends and a three-VM Talos Kubernetes cluster. It's my main sandbox for trying out new tools and keeping skills sharp outside of work.
 
 **Linux** — Daily driving EndeavorOS and CachyOS. I probably spend more time configuring my setup than actually using it, and I'm fine with that.
 
